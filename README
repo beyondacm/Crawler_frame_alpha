@@ -1,0 +1,24 @@
+/*******************************************************************/
+/* Copyright (C) tmxmall, yizhe, 2016-2017                         */
+/*                                                                 */
+/*  FILE NAME             :  Readme                                */
+/*  PRINCIPAL AUTHOR      :  zpGao                                 */
+/*  SUBSYSTEM NAME        :  Crawler                               */
+/*  MODULE NAME           :  menu                                  */
+/*  LANGUAGE              :  Python                                */
+/*  TARGET ENVIRONMENT    :  ANY                                   */
+/*  DATE OF FIRST RELEASE :  2016/05/31                            */
+/*  DESCRIPTION           :  This is a spider program frame        */
+/*******************************************************************/
+
+# INSUTRUCTION : 
+# 
+# 1. go to ./Proxy dir, update the IP/Port/Type, update Proxy 
+# 2. Format the url in ./Url dir
+# 3. run python crawler.py 
+# 4. crawled data will be stored in ./Data/data_pools
+# 5. If any Error / Exception occured, crawled_urllist / uncrawled_urllist 
+#    will be write to file crawled / uncrawled in ./Data, if success, 
+#    uncrawled data will be empyt.
+# 
+# 
